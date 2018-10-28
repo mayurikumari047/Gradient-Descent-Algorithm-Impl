@@ -1,5 +1,5 @@
 # Gradient-Descent-Algorithm-Impl
-Implementation of Gradient descent algorithm
+Scratch implementation of Gradient descent algorithm without any use of existing machine learning libraries
 
 Gradient Descent is used while training a machine learning model. It is an optimization algorithm, based on a convex function, that tweaks it’s parameters iteratively to minimize a given function to its local minimum. It is simply used to find the values of a functions parameters (coefficients) that minimize a cost function as far as possible.
 
